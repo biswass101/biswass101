@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Naeem Biswass Niloy! 👋
 
-<!--
-**biswass101/biswass101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Student at City University, Savar
+- 📚 Studying Phitron (Course), Batch 5
+- 💻 Competitive Programmer
+  - CodeChef: 2 Star
+  - Codeforces: Pupil
 
-Here are some ideas to get you started:
+## Technologies I'm Familiar With
+### Frontend
+- HTML/HTML5
+- CSS/CSS3
+- JavaScript
+- Tailwind CSS
+- React.js
+- Redux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- Python
+- Django
+- MySQL
+- Rest API
+
+Feel free to connect with me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naeem%20Biswass%20Niloy-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/niloy097))
