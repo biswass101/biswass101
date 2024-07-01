@@ -1,4 +1,4 @@
-# Let's bite(push) the ../git_yello_hub
+# Let's bite(push) the ../git_hub
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
