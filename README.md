@@ -2,7 +2,6 @@
 
 ## About Me
 - 🎓 Student at City University, Savar
-- 📚 Studying Phitron (Course), Batch 5
 - 💻 Competitive Programmer
   - CodeChef: 2 Star
   - Codeforces: Pupil
