@@ -18,6 +18,7 @@
 ### Backend
 - Python
 - Django
+- Node Js
 - MySQL
 - Rest API
 
