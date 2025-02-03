@@ -13,7 +13,7 @@
 - JavaScript
 - Tailwind CSS
 - React.js
-- 
+- Three js
 ### Backend
 - Node Js
 - Express Js
