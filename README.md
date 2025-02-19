@@ -13,11 +13,13 @@
 - JavaScript
 - Tailwind CSS
 - React.js
+- Redux
 - Three js
 ### Backend
 - Node Js
 - Express Js
 - Mongo DB
+- SQL
 - Rest API
 
 # Let's bite(push) the ../git_hub
