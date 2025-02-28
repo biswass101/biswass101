@@ -32,12 +32,6 @@
   />
 </picture>
 
-Feel free to connect with me!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naeem%20Biswass%20Niloy-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/niloy097))
-
-
-
 
 
 
