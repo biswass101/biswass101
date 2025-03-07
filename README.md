@@ -15,6 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biswass101&layout=compact)](https://github.com/biswass101/github-readme-stats)
 ![Niloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=biswass101&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biswass101)]
 [![GitHub Streak](https://streak-stats.demolab.com/?user=biswass101)](https://git.io/streak-stats)
 # Let's bite(push) the ../git_hub
 <picture>
