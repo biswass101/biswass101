@@ -17,8 +17,7 @@
 ![Niloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=biswass101&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=biswass101&theme=dark)](https://git.io/streak-stats)
 <p align="center">
-  <img src="[your_relative_path_here](https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeIU9pDH8hperu-49HnaGn9k8lFcwrRkOface0jR7tkviffpXrLwVFK4L6ecN8QirwquqiwSvnwPgqC3FswIVLBiQNpXnfkfo2ztRzbhrz43BsZ2n01CH-JYGQ.jpg?r=f0c)" width="350" title="hover text">
-  <img src="[your_relative_path_here_number_2_large_name](https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeIU9pDH8hperu-49HnaGn9k8lFcwrRkOface0jR7tkviffpXrLwVFK4L6ecN8QirwquqiwSvnwPgqC3FswIVLBiQNpXnfkfo2ztRzbhrz43BsZ2n01CH-JYGQ.jpg?r=f0c)" width="350" alt="accessibility text">
+  ![Image](https://github.com/user-attachments/assets/02f537d4-b271-42c8-a21e-a3456afb77f6)
 </p>
 # Let's bite(push) the ../git_hub
 <picture>
