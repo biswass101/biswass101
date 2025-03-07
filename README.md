@@ -16,6 +16,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biswass101&theme=tokyonight)
 ![Niloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=biswass101&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=biswass101&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="[your_relative_path_here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.netflix.com%2Ftitle%2F80002479&psig=AOvVaw2tCRqVQLbQWqv3eme0hqWz&ust=1741446572714000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjJ1p-g-IsDFQAAAAAdAAAAABAE)" width="350" title="hover text">
+  <img src="[your_relative_path_here_number_2_large_name](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.netflix.com%2Ftitle%2F80002479&psig=AOvVaw2tCRqVQLbQWqv3eme0hqWz&ust=1741446572714000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjJ1p-g-IsDFQAAAAAdAAAAABAE)" width="350" alt="accessibility text">
+</p>
 # Let's bite(push) the ../git_hub
 <picture>
   <source
