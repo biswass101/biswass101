@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://niloy-portfolio-mauve.vercel.app/](https://niloy-portfolio-mauve.vercel.app/)
 
-- 📫 How to reach me **biswassnaeemcse@gmail.com**
+- 📫 How to reach me: **biswassnaeemcse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
