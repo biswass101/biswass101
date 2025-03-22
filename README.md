@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Naeem Biswass Niloy</h1>
-<h3 align="center">I'm an aspiring full-stack web developer pursuing my Computer Science and Engineering degree at City University, expected to graduate in December 2025. I love turning ideas into visually appealing, functional websites and staying up-to-date with the latest technologies. 💡 Tech Stack: HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB 🎯 Goal: Becoming a skilled senior web developer within the next five years 📚 Mindset: Continuous learning, exploring new frameworks, and delivering cutting-edge solutions Always eager to learn, build, and innovate! 🚀</h3>
+<h3 align="center">I'm an aspiring full-stack web developer pursuing my Computer Science and Engineering degree at City University, expected to graduate in December 2025. I love turning ideas into visually appealing, functional websites and staying up-to-date with the latest technologies.
+</h3>
+
+<p>💡 <b>Tech Stack:</b> HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB</p> 
+<p>🎯 <b>Goal:</b> Becoming a skilled senior web developer within the next five years</p> 
+<p>📚 <b>Mindset:</b> Continuous learning, exploring new frameworks, and delivering cutting-edge solutions Always eager to learn, build, and innovate! 🚀</p>
 
 - 👨‍💻 All of my projects are available at [https://niloy-portfolio-mauve.vercel.app/](https://niloy-portfolio-mauve.vercel.app/)
 
@@ -16,6 +21,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biswass101&theme=tokyonight)
 ![Niloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=biswass101&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=biswass101&theme=dark)](https://git.io/streak-stats)
+
 <img align ="center" width="400" src = "https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeIU9pDH8hperu-49HnaGn9k8lFcwrRkOface0jR7tkviffpXrLwVFK4L6ecN8QirwquqiwSvnwPgqC3FswIVLBiQNpXnfkfo2ztRzbhrz43BsZ2n01CH-JYGQ.jpg?r=f0c"/>
 # Let's bite(push) the ../git_hub
 <picture>
