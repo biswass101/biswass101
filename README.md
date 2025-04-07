@@ -22,7 +22,8 @@
 ![Niloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=biswass101&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=biswass101&theme=dark)](https://git.io/streak-stats)
 
-<img align ="center" width="400" src = "https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeIU9pDH8hperu-49HnaGn9k8lFcwrRkOface0jR7tkviffpXrLwVFK4L6ecN8QirwquqiwSvnwPgqC3FswIVLBiQNpXnfkfo2ztRzbhrz43BsZ2n01CH-JYGQ.jpg?r=f0c"/>
+<img align ="left" width="400" src = "https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeIU9pDH8hperu-49HnaGn9k8lFcwrRkOface0jR7tkviffpXrLwVFK4L6ecN8QirwquqiwSvnwPgqC3FswIVLBiQNpXnfkfo2ztRzbhrz43BsZ2n01CH-JYGQ.jpg?r=f0c"/>
+<img align ="left" width="400" src = "https://imgs.search.brave.com/Us525UvvpgAu7iijAJ_VGBFz1qVbPOlurv19SR4J0CA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNTE1/MTY4MDAwL3Bob3Rv/LzMtMi0xOTMyLXBp/Y3R1cmUtc2hvd3Mt/YWRvbGYtaGl0bGVy/LWV4dGVuZGluZy1o/aXMtaGFuZHMtaW4t/dGhlLWZhc2Npc3Qt/c2FsdXRlLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz15bmFf/RXNWa3pnQlJaN1FS/SnYyVmNFR3hSQXZB/aHd1bF9xandMc1Rj/T1lnPQ"/>
 <img align ="right" width="400" src = "https://imgs.search.brave.com/_jsnEOYmF8Nnff34ZDH9b-2nfMJqmNQgY62eug2-_cw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA0LzM0LzE3LzUx/LzM2MF9GXzQzNDE3/NTExMl9mcDNOWHkz/ZTU1bkpTcFczejVy/dGpYT2dkZVY2NFhw/YS5qcGc"/>
 <img align ="left" width="400" src ="https://imgs.search.brave.com/nz1jvoQHLBKUgj6ds8KoyV_T_1t2ezcKuW7pWM5UDXk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9wYWxlc3RpbmUt/d2lsbC13aW5fOTU1/MDI4LTE3NzUxLmpw/Zz9zZW10PWFpc19o/eWJyaWQmdz03NDA"/>
 
