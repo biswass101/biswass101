@@ -23,7 +23,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=biswass101&theme=dark)](https://git.io/streak-stats)
 
 <img align ="center" width="400" src = "https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeIU9pDH8hperu-49HnaGn9k8lFcwrRkOface0jR7tkviffpXrLwVFK4L6ecN8QirwquqiwSvnwPgqC3FswIVLBiQNpXnfkfo2ztRzbhrz43BsZ2n01CH-JYGQ.jpg?r=f0c"/>
-<img align ="center" width="400" src = "https://stock.adobe.com/search?k=free+palestine"/>
+<img align ="center" width="400" src = "https://imgs.search.brave.com/_jsnEOYmF8Nnff34ZDH9b-2nfMJqmNQgY62eug2-_cw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA0LzM0LzE3LzUx/LzM2MF9GXzQzNDE3/NTExMl9mcDNOWHkz/ZTU1bkpTcFczejVy/dGpYT2dkZVY2NFhw/YS5qcGc"/>
 
 # Let's bite(push) the ../git_hub
 <picture>
