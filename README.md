@@ -27,7 +27,7 @@
 <img align ="right" width="400" src = "https://imgs.search.brave.com/_jsnEOYmF8Nnff34ZDH9b-2nfMJqmNQgY62eug2-_cw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA0LzM0LzE3LzUx/LzM2MF9GXzQzNDE3/NTExMl9mcDNOWHkz/ZTU1bkpTcFczejVy/dGpYT2dkZVY2NFhw/YS5qcGc"/>
 <img align ="left" width="400" src ="https://imgs.search.brave.com/nz1jvoQHLBKUgj6ds8KoyV_T_1t2ezcKuW7pWM5UDXk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9wYWxlc3RpbmUt/d2lsbC13aW5fOTU1/MDI4LTE3NzUxLmpw/Zz9zZW10PWFpc19o/eWJyaWQmdz03NDA"/>
 
-# Let's bite(push) the ../git_hub
+# Let's bite(push) the ./git_hub
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
