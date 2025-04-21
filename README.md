@@ -14,7 +14,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/niloy097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niloy097" height="30" width="40" /></a>
-<a href="https://instagram.com/biswass101" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuH7c5cLpGehi0b4iQk90fXUzC9p7Ebla13w&s" alt="biswass101" height="30" width="40" /></a>
+<a href="https://instagram.com/biswass101" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" alt="biswass101" height="30" width="40" /></a>
 <a href="https://facebook.com/niloy.biswass.naim" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" alt="niloy.biswass.naim" height="30" width="40" /></a>
 </p>
 
