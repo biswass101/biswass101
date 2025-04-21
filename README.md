@@ -11,7 +11,7 @@
 - 📫 How to reach me: **biswassnaeemcse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style = "display: inline-block">
+<p align="left" style = "display: block">
 <a href="https://linkedin.com/in/niloy097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niloy097" height="30" width="40" /></a>
 </p>
 <a href="https://linkedin.com/in/niloy097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niloy097" height="30" width="40" /></a>
