@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Naeem Biswass Niloy</h1>
-<h3 align="center">I am an aspiring full-stack web developer pursuing my Computer Science and Engineering degree at City University, expected to graduate in December 2025. I love turning ideas into visually appealing, functional websites and staying up-to-date with the latest technologies.
+<h3 align="center">I am an aspiring full-stack developer pursuing my Computer Science and Engineering degree at City University, expected to graduate in December 2025. I love turning ideas into visually appealing, functional websites and staying up-to-date with the latest technologies.
 </h3>
 
-<p>💡 <b>Tech Stack:</b> HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB</p> 
-<p>🎯 <b>Goal:</b> Becoming a skilled senior web developer within the next five years</p> 
+<p>💡 <b>Tech Stack:</b> HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, SQL</p> 
+<p>🎯 <b>Goal:</b> <ul>
+  <li><b>2026: </b> Junior Software Engineer</li>
+  <li><b>2028: </b> Crack FAANG</li>
+</ul></p> 
 <p>📚 <b>Mindset:</b> Continuous learning, exploring new frameworks, and delivering cutting-edge solutions Always eager to learn, build, and innovate! 🚀</p>
 
 - 👨‍💻 All of my projects are available at [https://niloy-portfolio-mauve.vercel.app/](https://niloy-portfolio-mauve.vercel.app/)
