@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naeem Biswass Niloy</h1>
-<h3 align="center">I am an aspiring full-stack developer pursuing my Computer Science and Engineering degree at City University, expected to graduate in December 2025. I love turning ideas into visually appealing, functional websites and staying up-to-date with the latest technologies.
+<h3 align="center">I am an aspiring full-stack developer pursuing my Computer Science and Engineering degree at City University, expected to graduate in December 2025. I love turning ideas into visually appealing, functional websites, Appilactions and staying up-to-date with the latest technologies.
 </h3>
 
 <p>💡 <b>Tech Stack:</b> HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, SQL</p> 
