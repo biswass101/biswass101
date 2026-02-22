@@ -9,7 +9,7 @@
 </ul></p> 
 <p>📚 <b>Mindset:</b> Continuous learning, exploring new frameworks, and delivering cutting-edge solutions Always eager to learn, build, and innovate! 🚀</p>
 
-- 👨‍💻 All of my projects are available at [biswass.work.gd](https://niloy-portfolio-mauve.vercel.app/)
+- 👨‍💻 All of my projects are available at [niloybiswass.xyz](https://niloy-portfolio-mauve.vercel.app/)
 
 - 📫 How to reach me: **biswassnaeemcse@gmail.com**
 
